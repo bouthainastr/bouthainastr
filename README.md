@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bouthainastr
 - 👀 I’m interested in Network security 
 - 🌱 I’m currently learning network security 
-- 💞️ I’m looking to collaborate on 
 - 📫 You can contact me via email satour.bouthaina3@gmail.com 
 
 <!---
